@@ -5,6 +5,7 @@ import { AFrameRenderer, Marker } from "../src";
 
 /**
  * In this example, we use an image as a source type for analysing the marker.
+ * then test to deploy again
  */
 class ReactArApp extends Component {
   render() {
